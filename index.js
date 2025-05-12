@@ -14,9 +14,9 @@ const music = new Audio();
 
 const songs = [
     {
-        path: 'assets/1.mp3',
+        path: 'https://github.com/Aditya24Rathore/mp/blob/main/assists/1.mp3',
         displayName: 'The Charmer\'s Call',
-        cover: 'assets/1.jpg',
+        cover: 'https://github.com/Aditya24Rathore/mp/blob/main/assists/1.jpg',
         artist: 'Hanu Dixit',
     },
     {
