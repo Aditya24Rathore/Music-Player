@@ -14,6 +14,18 @@ const music = new Audio();
 
 const songs = [
     {
+        path: 'assets/Tumhe Jo Maine Dekha.mp3',
+        displayName: 'Tumhe Jo Maine Dekha',
+        cover: 'assets/Tumhe Jo Maine Dekha.png',
+        artist: 'Anu Malik',
+    },
+    {
+        path: 'assets/Tune Mere Jana.mp3',
+        displayName: 'Tune Mere Jana',
+        cover: 'assets/Tune Mere Jana.png',
+        artist: 'Gajendra Verma',
+    },
+    {
         path: 'assets/1.mp3',
         displayName: 'The Charmer\'s Call',
         cover: 'assets/1.jpg',
