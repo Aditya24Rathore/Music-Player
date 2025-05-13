@@ -14,6 +14,12 @@ const music = new Audio();
 
 const songs = [
     {
+        path: 'assets/Maula Mere Maula.mp3',
+        displayName: 'Maula Mere Maula',
+        cover: 'assets/no cover photo available.png',
+        artist: 'Roop Kumar Rathod,Anwar',
+    },
+    {
         path: 'assets/Tumhe Jo Maine Dekha.mp3',
         displayName: 'Tumhe Jo Maine Dekha',
         cover: 'assets/Tumhe Jo Maine Dekha.png',
@@ -32,16 +38,10 @@ const songs = [
         artist: 'Kumar Sanu',
     },
     {
-        path: 'assets/2.mp3',
-        displayName: 'You Will Never See Me Coming',
-        cover: 'assets/2.jpg',
-        artist: 'NEFFEX',
-    },
-    {
-        path: 'assets/3.mp3',
-        displayName: 'Intellect',
-        cover: 'assets/3.jpg',
-        artist: 'Yung Logos',
+        path: 'assets/dil vich lagya.mp3',
+        displayName: 'dil vich lagya',
+        cover: 'assets/dil vich lagya.jpg',
+        artist: 'Kunal Gurshabad, Sonu nigam',
     }
 ];
 
