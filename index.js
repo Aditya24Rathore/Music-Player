@@ -26,10 +26,10 @@ const songs = [
         artist: 'Gajendra Verma',
     },
     {
-        path: 'assets/1.mp3',
-        displayName: 'The Charmer\'s Call',
-        cover: 'assets/1.jpg',
-        artist: 'Hanu Dixit',
+        path: 'assets/Mera Dil Bhi Kitna.mp3',
+        displayName: 'Mera Dil Bhi Kitna',
+        cover: 'assets/no cover photo available.png',
+        artist: 'Kumar Sanu',
     },
     {
         path: 'assets/2.mp3',
