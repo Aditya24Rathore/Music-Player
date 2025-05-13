@@ -42,6 +42,12 @@ const songs = [
         displayName: 'dil vich lagya',
         cover: 'assets/dil vich lagya.jpg',
         artist: 'Kunal Gurshabad, Sonu nigam',
+    },
+    {
+        path: 'assets/Kyaa Dil Ne Kaha.mp3',
+        displayName: 'Kyaa Dil Ne Kaha',
+        cover: 'assets/no cover photo available.png',
+        artist: 'Udit narayan, Alka Yagnik',
     }
 ];
 
