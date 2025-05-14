@@ -110,6 +110,16 @@ function setProgressBar(e) {
     music.currentTime = (clickX / width) * music.duration;
 }
 
+function toggleExpand() {
+    const container = document.querySelector('.library_container');
+    container.classList.toggle('expanded');
+}
+// function library(){
+//     music.src = songs.path;
+//     title.textContent = songs.displayName;
+//     image.src = songs.cover; 
+// }
+
 playBtn.addEventListener('click', togglePlay);
 prevBtn.addEventListener('click', () => changeMusic(-1));
 nextBtn.addEventListener('click', () => changeMusic(1));
